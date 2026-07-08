@@ -14,5 +14,5 @@ Follow these quick steps to get the notebooks running on your own computer:
 ### 1. Download the Repository
 You can either download this repository as a ZIP file directly from GitHub and extract it, or clone it using Git:
 ```bash
-git clone [https://github.com/vaishnavit67/NumPy-and-Pandas-A-Beginner-s-Guide](https://github.com/vaishnavit67/NumPy-and-Pandas-A-Beginner-s-Guide)
+git clone [https://github.com/vaishnavit67/NumPy-and-Pandas-A-Beginner-s-Guide.git](https://github.com/vaishnavit67/NumPy-and-Pandas-A-Beginner-s-Guide.git)
 cd NumPy-and-Pandas-A-Beginner-s-Guide
